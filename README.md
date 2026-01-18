@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Pallavi Pujari.
-
 ## 📊 Data Analyst | Data Enthusiast
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z5NXE1ZTBtdXl1dGtubHV6dm84azU4OTQyZDhja29kZXI5OXQwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="600" alt="Data Flow GIF"/>
+</p>
 
 I am a passionate **Data Analyst** with hands-on experience in transforming raw data into meaningful insights using **Power BI, Excel, SQL, and Tableau**.  
 I enjoy solving business problems through data analysis and visualization.
@@ -53,7 +55,6 @@ I enjoy solving business problems through data analysis and visualization.
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PallaviPujari03&show_icons=true&theme=tokyonight" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PallaviPujari03&theme=tokyonight" alt="streak stats"/>
 </p>
 ---
 
@@ -67,8 +68,7 @@ I enjoy solving business problems through data analysis and visualization.
 
 ## 📬 Connect With Me
 - 💼 LinkedIn: <your-linkedin-url>
-- 📧 Email: <your-email>
-- 🌐 Portfolio (optional): <your-portfolio-link>
+- 📧 Email: pallavipujari03@gmail.com
 
 ---
 
