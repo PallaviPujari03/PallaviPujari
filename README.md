@@ -50,9 +50,9 @@ I enjoy solving business problems through data analysis and visualization.
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<PallaviPujari03>&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<PallaviPujari03>&layout=compact)
 
 ---
 
