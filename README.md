@@ -40,7 +40,7 @@ I enjoy solving business problems through data analysis and visualization.
 ## 📁 Featured Projects
 
 🔗 **Data Analyst Projects Repository**  
-👉 [Click here to view my projects](https://github.com/<your-username>/<your-project-repo>)
+👉 [Click here to view my projects]([https://github.com/<your-username>/<your-project-repo>](https://github.com/PallaviPujari03/Projects))
 
 📊 Projects include:
 - Power BI Dashboards
