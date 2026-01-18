@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <Pallavi Pujari>
+# 👋 Hi, I'm Pallavi Pujari.
 
 ## 📊 Data Analyst | Data Enthusiast
 
