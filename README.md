@@ -40,7 +40,7 @@ I enjoy solving business problems through data analysis and visualization.
 ## 📁 Featured Projects
 
 🔗 **Data Analyst Projects Repository**  
-👉 [Click here to view my projects](https://github.com/HarshadKamble77/My-Projects/tree/main/Audio%20Classification%20using%20Machine%20Learning)
+👉 [Click here to view my projects](https://github.com/PallaviPujari03/Projects)
 
 📊 Projects include:
 - Power BI Dashboards
