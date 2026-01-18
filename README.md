@@ -50,10 +50,11 @@ I enjoy solving business problems through data analysis and visualization.
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<PallaviPujari03>&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<PallaviPujari03>&layout=compact)
-
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PallaviPujari03&show_icons=true&theme=tokyonight" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PallaviPujari03&theme=tokyonight" alt="streak stats"/>
+</p>
 ---
 
 ## 🏆 Key Highlights
